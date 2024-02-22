@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi ,I'm Simo Brice
 
-<!--
-**briceteddy/briceteddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about cybersecurity and secure application development. An expert in C#, Java and JavaScript, I strive to create robust solutions to protect data and ensure user privacy.
 
-Here are some ideas to get you started:
+## About me
+- 💼 Currently working as a secure software developer.
+- 🎓 Computer science graduate with a specialization in cybersecurity.
+- 🔒 Committed to strengthening security in the digital world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: C#, Java, JavaScript.
+- Development of secure applications.
+- Design of robust and resilient systems.
+
+## Contact
+- You can contact me by email at [brice.simo.its@gmail.com](mailto:brice.simo.its@gmail.com).
+- You can also find me on [LinkedIn](linkedin.com/in/brice-simo-40287122b) to discuss potential collaborations.
+
+Thanks for visiting my profile!
